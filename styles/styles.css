@@ -86,7 +86,7 @@ header nav {
 .monogram {
   width: 160px;
   height: 160px;
-  background-image: url('/themes/henily.nyc/assets/images/monogram.png');
+  background-image: url('/images/monogram.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 100% auto;
