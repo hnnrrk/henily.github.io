@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Edwardian';
+  src: url('edwardian.woff2') format('woff2'),
+       url('edwardian.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
